@@ -1,0 +1,14 @@
+May 02 01:33:30 Updated: ncurses-base-5.9-14.20130511.el7_4.noarch
+May 02 01:33:36 Updated: ncurses-libs-5.9-14.20130511.el7_4.x86_64
+May 02 01:33:37 Installed: ncurses-devel-5.9-14.20130511.el7_4.x86_64
+May 02 01:33:38 Updated: ncurses-5.9-14.20130511.el7_4.x86_64
+May 02 02:08:59 Installed: zlib-devel-1.2.7-17.el7.x86_64
+May 02 02:08:59 Installed: elfutils-libelf-devel-0.168-8.el7.x86_64
+May 02 02:09:44 Installed: libsepol-devel-2.5-6.el7.x86_64
+May 02 02:09:45 Installed: pcre-devel-8.32-17.el7.x86_64
+May 02 02:09:45 Installed: libselinux-devel-2.5-11.el7.x86_64
+May 02 02:09:45 Installed: libcom_err-devel-1.42.9-10.el7.x86_64
+May 02 02:09:45 Installed: libverto-devel-0.2.5-4.el7.x86_64
+May 02 02:09:45 Installed: keyutils-libs-devel-1.5.8-3.el7.x86_64
+May 02 02:09:45 Installed: krb5-devel-1.15.1-8.el7.x86_64
+May 02 02:09:46 Installed: 1:openssl-devel-1.0.2k-8.el7.x86_64
